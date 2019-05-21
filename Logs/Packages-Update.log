@@ -1,8 +1,8 @@
 
-=== Wed May 15 15:50:16 2019
+=== Tue May 21 13:29:04 2019
 
 Packages were changed.
-Update Mode: updateDependencies
+Update Mode: resetToDefaultDependencies
 
 The following packages were added:
   com.unity.analytics@3.3.2
@@ -42,5 +42,3 @@ The following packages were added:
   com.unity.modules.vr@1.0.0
   com.unity.modules.wind@1.0.0
   com.unity.modules.xr@1.0.0
-  com.unity.multiplayer-hlapi@1.0.2
-  com.unity.xr.legacyinputhelpers@2.0.2
