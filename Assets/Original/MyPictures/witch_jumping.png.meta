@@ -1,0 +1,592 @@
+fileFormatVersion: 2
+guid: 461b73edf89a6b04f8c1903c26ffa166
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3614790805872412308
+    second: witch_jumping_0
+  - first:
+      213: -110448224748171664
+    second: witch_jumping_1
+  - first:
+      213: -8127899018176101395
+    second: witch_jumping_2
+  - first:
+      213: 8840496781049772531
+    second: witch_jumping_3
+  - first:
+      213: -371278239457756198
+    second: witch_jumping_4
+  - first:
+      213: -3620499919279083551
+    second: witch_jumping_5
+  - first:
+      213: -6964158090218117316
+    second: witch_jumping_6
+  - first:
+      213: 6506665940240226340
+    second: witch_jumping_7
+  - first:
+      213: -1616982330248723868
+    second: witch_jumping_8
+  - first:
+      213: -2598032752984314381
+    second: witch_jumping_9
+  - first:
+      213: 4433271606868782362
+    second: witch_jumping_10
+  - first:
+      213: -2426294988024834984
+    second: witch_jumping_11
+  - first:
+      213: -1192344627182867426
+    second: witch_jumping_12
+  - first:
+      213: -6142550153686256998
+    second: witch_jumping_13
+  - first:
+      213: 169372035680576357
+    second: witch_jumping_14
+  - first:
+      213: -3781350407940544017
+    second: witch_jumping_15
+  - first:
+      213: -730376428358047407
+    second: witch_jumping_16
+  - first:
+      213: 8811961941326780625
+    second: witch_jumping_17
+  - first:
+      213: 3865263265811241126
+    second: witch_jumping_18
+  - first:
+      213: 6839212369715938058
+    second: witch_jumping_19
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: witch_jumping_0
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 4173
+        width: 421
+        height: 790
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b103c27ceab1b54499c086cfbd20184e
+      internalID: -3614790805872412308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: witch_jumping_1
+      rect:
+        serializedVersion: 2
+        x: 1149
+        y: 4173
+        width: 422
+        height: 757
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3648209a279c22b44a1fa196fe1b0edf
+      internalID: -110448224748171664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: witch_jumping_2
+      rect:
+        serializedVersion: 2
+        x: 2173
+        y: 4173
+        width: 421
+        height: 726
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94867afb697f3d44b8f59868f5ddd1ad
+      internalID: -8127899018176101395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: witch_jumping_3
+      rect:
+        serializedVersion: 2
+        x: 3196
+        y: 4173
+        width: 424
+        height: 693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e09c754c94be1740907d62dc14fa036
+      internalID: 8840496781049772531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: witch_jumping_4
+      rect:
+        serializedVersion: 2
+        x: 4222
+        y: 4173
+        width: 422
+        height: 663
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd5d70b66a67b6b46b2fc2997ee17248
+      internalID: -371278239457756198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: witch_jumping_5
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 3132
+        width: 421
+        height: 696
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28853c17c7b9f204a9d1276032fa98d3
+      internalID: -3620499919279083551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: witch_jumping_6
+      rect:
+        serializedVersion: 2
+        x: 1164
+        y: 3117
+        width: 423
+        height: 741
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccc99cf31d05db84bb35ddac7fe994e8
+      internalID: -6964158090218117316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: witch_jumping_7
+      rect:
+        serializedVersion: 2
+        x: 2269
+        y: 3180
+        width: 422
+        height: 775
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4246a9fb08156fd42af8ac9e68844137
+      internalID: 6506665940240226340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: witch_jumping_8
+      rect:
+        serializedVersion: 2
+        x: 3341
+        y: 3228
+        width: 422
+        height: 775
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fb16d059625deb418d68d240a428766
+      internalID: -1616982330248723868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: witch_jumping_9
+      rect:
+        serializedVersion: 2
+        x: 4397
+        y: 3277
+        width: 422
+        height: 774
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d1c144bc7c2c714cbe1bf78d09e22a5
+      internalID: -2598032752984314381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: witch_jumping_10
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 2220
+        width: 422
+        height: 775
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7890a38b67aa89549ad6d7d833ea493c
+      internalID: 4433271606868782362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: witch_jumping_11
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 2157
+        width: 424
+        height: 774
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8a46200e228e8b4989cbaff74e79ba7
+      internalID: -2426294988024834984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: witch_jumping_12
+      rect:
+        serializedVersion: 2
+        x: 2604
+        y: 2078
+        width: 422
+        height: 742
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02c4ac2721873ad4bb1b9c9b9e0a488f
+      internalID: -1192344627182867426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: witch_jumping_13
+      rect:
+        serializedVersion: 2
+        x: 3613
+        y: 2093
+        width: 421
+        height: 694
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84320aa32728694429a22e84584e054a
+      internalID: -6142550153686256998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: witch_jumping_14
+      rect:
+        serializedVersion: 2
+        x: 4636
+        y: 2093
+        width: 424
+        height: 694
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86a1ebd6f1892cf419249b4af068cba5
+      internalID: 169372035680576357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: witch_jumping_15
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 1052
+        width: 422
+        height: 663
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07365db1ec721b2468ef842e176a65f6
+      internalID: -3781350407940544017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: witch_jumping_16
+      rect:
+        serializedVersion: 2
+        x: 1566
+        y: 1052
+        width: 421
+        height: 696
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4a9731dd174c454bbd8c0abcff872e0
+      internalID: -730376428358047407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: witch_jumping_17
+      rect:
+        serializedVersion: 2
+        x: 2589
+        y: 1052
+        width: 422
+        height: 727
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49e2ec090b0e4cf4ab1c3208707aac53
+      internalID: 8811961941326780625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: witch_jumping_18
+      rect:
+        serializedVersion: 2
+        x: 3613
+        y: 1052
+        width: 421
+        height: 760
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9351902001582540846c01c240b3c35
+      internalID: 3865263265811241126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: witch_jumping_19
+      rect:
+        serializedVersion: 2
+        x: 4636
+        y: 1052
+        width: 424
+        height: 790
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e850c725f63b94c4f921cbd740e20d54
+      internalID: 6839212369715938058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: dd2896fc4ac8705458fc3d424f78eeb1
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
