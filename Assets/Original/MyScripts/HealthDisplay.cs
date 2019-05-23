@@ -19,7 +19,7 @@ public class HealthDisplay : MonoBehaviour
     // Update is called once per frame
     void Update()
 {
-    healthText.text = "POTIONS: " + currentHealth;
+    healthText.text = "POTIONS:" + currentHealth;
 
     if (Input.GetMouseButtonDown(0))
     {
