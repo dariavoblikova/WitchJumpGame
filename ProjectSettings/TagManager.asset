@@ -9,6 +9,9 @@ TagManager:
   - Bullet
   - Ground
   - Pickup
+  - GameUI
+  - Destination
+  - ExplosionParticle
   layers:
   - Default
   - TransparentFX
@@ -43,12 +46,15 @@ TagManager:
   - 
   - 
   m_SortingLayers:
-  - name: Background
-    uniqueID: 145232093
+  - name: Foreground
+    uniqueID: 4139125161
     locked: 0
   - name: Default
     uniqueID: 0
     locked: 0
   - name: Gameplay
     uniqueID: 1087635889
+    locked: 0
+  - name: Background
+    uniqueID: 145232093
     locked: 0

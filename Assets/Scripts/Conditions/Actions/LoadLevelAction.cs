@@ -5,25 +5,29 @@ using UnityEngine.SceneManagement;
 [AddComponentMenu("Playground/Actions/Load Level")]
 public class LoadLevelAction : Action
 {
-	public string levelName = SAME_SCENE;
+    public string levelName = SAME_SCENE;
 
-	public const string SAME_SCENE = "0";
-	
+    public const string SAME_SCENE = "0";
+    private static ILogger logger = Debug.unityLogger;
+    private static string genericLevelName = "Level";
 
-	//Loads a new Unity scene, or reload the current one (it means all objects are reset)
-	public override bool ExecuteAction(GameObject dataObject)
-	{
-		if(levelName == SAME_SCENE)
-		{
-			//just restart the level
-			SceneManager.LoadScene(SceneManager.GetActiveScene().name, LoadSceneMode.Single);
-		}
-		else
-		{
-			//load another scene
-			SceneManager.LoadScene(levelName, LoadSceneMode.Single);
-		}
 
-		return true;
-	}
+    //Loads a new Unity scene, or reload the current one (it means all objects are reset)
+    public override bool ExecuteAction(GameObject dataObject)
+    {
+
+        //load next level
+        string levelString = SceneManager.GetActiveScene().name;
+
+        int currentLevelNumber = (int)System.Char.GetNumericValue(levelString[levelString.Length - 1]);
+        currentLevelNumber += 1;
+
+        string nextLevelString = genericLevelName + currentLevelNumber;
+
+
+        logger.Log("Attempting to load: " + nextLevelString);
+        SceneManager.LoadScene(nextLevelString, LoadSceneMode.Single);
+
+        return true;
+    }
 }
